@@ -1,0 +1,497 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SORB_MAY_CREATIVE_WEB-24.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/SORB_MAY_CREATIVE_WEB-19.jpg",
+            "content_max_width": 720,
+            "mobile_text_position": "place-self-start-center text-center",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "subheading": "",
+            "title": "Your friend on the loo, since '52.",
+            "heading_tag": "h1",
+            "button_text": "Shop All Sorbent",
+            "button_link": "shopify:\/\/collections\/all-products",
+            "text_color": "#ffffff",
+            "button_background": "#a05eb5",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "lg",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "Always Soft, Always Strong",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 7,
+        "background": "#002677",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "toilet-tissue",
+        "products": [
+
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 8,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Our Best Sellers",
+        "content": "<p>Tried and tested by folders and scrunchers for the past 70 years. <\/p>",
+        "link_url": "shopify:\/\/collections\/toilet-tissue",
+        "link_text": "Shop All Toilet Paper",
+        "background": "#f2f2f2",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "1bd474d7-1127-4ce4-8b3e-23703b171fd8": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "template--15629100515380__1bd474d7-1127-4ce4-8b3e-23703b171fd8-1684235288524931e0-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sorbent_3.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Behind every great Australian.",
+            "content": "<p>We're here to salute you, the remarkable individuals who make this country truly great. Because behind every great Australian, there's Sorbent, celebrating you and the extraordinary moments you create. <\/p><p>From braving scorching summer barbecues to unexpected rain showers, we've toughened up our toilet paper to handle the harshest conditions. Softness? Check. Strength? Double-check. We've got you covered, quite literally.<\/p>"
+          }
+        },
+        "37e1b8c5-52a5-4f1c-9f6e-5437fd898b9b": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LOOSE-ROLL_1_1.gif",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Through Thick and Thin",
+            "content": "<p>When the floods came rushing, the fires raged, and the world turned upside down, you stood strong. <\/p><p>We wiped away tears (and much more) during the toughest moments, and were there to witness your greatness in the extraordinary ones. <\/p><p>So we're raising a toast to the everyday heroes who make this country shine. Let Sorbent be your confidant, your ally, and your soft spot in a world that often demands toughness. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15629100515380__1bd474d7-1127-4ce4-8b3e-23703b171fd8-1684235288524931e0-0",
+        "37e1b8c5-52a5-4f1c-9f6e-5437fd898b9b"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "start",
+        "background": "#a05eb5",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "1a666813-e0d2-43c6-b12f-c2351e65df6d": {
+      "type": "revealed-image-on-scroll",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Sorbent_Reveal.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Sorbent_Reveal_1.jpg",
+        "subheading": "",
+        "title": "New Packaging! On Shelves Soon!",
+        "background": "",
+        "text_color_inside": "#ffffff",
+        "text_color_outside": "#002677"
+      }
+    },
+    "impact-text": {
+      "type": "impact-text",
+      "blocks": {
+        "1664424181b38582d5-0": {
+          "type": "item",
+          "settings": {
+            "title": "50,000,000",
+            "subheading": "Aussie bums wiped, and counting.",
+            "content": "",
+            "button_text": "Shop All Sorbent",
+            "button_url": "shopify:\/\/collections\/all-products",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 1.1
+          }
+        },
+        "0765b946-1a0c-4ad2-9125-471f69bb696e": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "100%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "1664424181b38582d5-0",
+        "0765b946-1a0c-4ad2-9125-471f69bb696e"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "#f2f2f2",
+        "background_gradient": "",
+        "heading_text_color": "#002677",
+        "heading_gradient": "",
+        "text_color": "#002677",
+        "button_background": "#a05eb5",
+        "button_text_color": ""
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/SORB_MAY_LS_WEB-20-EDIT.jpg",
+            "subheading": "",
+            "title": "Toilet Rolls",
+            "url": "",
+            "heading_tag": "h3",
+            "text_position": "place-self-start text-start",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/SORB_MAY_LS_WEB-10_EDIT.jpg",
+            "subheading": "",
+            "title": "Tissues",
+            "url": "",
+            "heading_tag": "h3",
+            "text_position": "place-self-start text-start",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/SORB_MAY_LS_WEB-16-EDIT.jpg",
+            "subheading": "",
+            "title": "Flushable Wipes",
+            "url": "",
+            "heading_tag": "h3",
+            "text_position": "place-self-start text-start",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection-2",
+        "collection-3"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_collections": false,
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "Wipe Your Way",
+        "content": "",
+        "link_url": "",
+        "link_text": "Shop All Products",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "4cede670-071f-400e-bd38-9f809f1092f3": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--15629100515380__4cede670-071f-400e-bd38-9f809f1092f3-16842393684811699a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sorbent_2.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Our Commitment to a Greener Future",
+            "content": "<p>We're not just about saving the day in the bathroom; we're passionate about saving the planet too. Sorbent is on a mission to make sustainability cool. We're committed to reducing our environmental footprint while still giving you the softness and strength you love. Join us on this eco-friendly journey and feel good about every wipe.<\/p>",
+            "link_text": "Learn more about our efforts",
+            "link_url": "shopify:\/\/pages\/sustainability",
+            "background": "#4ab163",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15629100515380__4cede670-071f-400e-bd38-9f809f1092f3-16842393684811699a-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "96dc7c9c-a682-4dcd-a5a8-7f1bba1e5509": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15629100515380__96dc7c9c-a682-4dcd-a5a8-7f1bba1e5509-1684194704e84b0b75-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/Sorbent_ExtraSoftIcon_Master_Asset_RGB-WEB.png",
+            "mobile_icon_width": 24,
+            "icon_width": 100,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Extra Soft",
+            "content": "<p>Suitable for the whole family. <\/p>"
+          }
+        },
+        "template--15629100515380__96dc7c9c-a682-4dcd-a5a8-7f1bba1e5509-1684194704e84b0b75-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/Sorbent_ExtraThickIcon_Master_Asset_RGB-WEB.png",
+            "mobile_icon_width": 24,
+            "icon_width": 100,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Extra Thick",
+            "content": "<p>No one needs surprises on the loo.  <\/p>"
+          }
+        },
+        "template--15629100515380__96dc7c9c-a682-4dcd-a5a8-7f1bba1e5509-1684194704e84b0b75-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-truck",
+            "custom_icon": "shopify:\/\/shop_images\/Sorbent_SustainabilityIcon_Master_Asset_RGB-WEB.png",
+            "mobile_icon_width": 24,
+            "icon_width": 100,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Sustainable",
+            "content": "<p>Good for your bum, and the planet. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15629100515380__96dc7c9c-a682-4dcd-a5a8-7f1bba1e5509-1684194704e84b0b75-0",
+        "template--15629100515380__96dc7c9c-a682-4dcd-a5a8-7f1bba1e5509-1684194704e84b0b75-1",
+        "template--15629100515380__96dc7c9c-a682-4dcd-a5a8-7f1bba1e5509-1684194704e84b0b75-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "blocks": {
+        "1664424230c4756b0e-0": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "1664424230c4756b0e-1": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "1664424230c4756b0e-2": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664424230c4756b0e-0",
+        "1664424230c4756b0e-1",
+        "1664424230c4756b0e-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/KITCHEN-GRAB.gif",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "bdb1ee20-2514-4729-8432-43566e21e106": {
+      "type": "video",
+      "blocks": {
+        "template--15629100515380__bdb1ee20-2514-4729-8432-43566e21e106-16843851895f77ddb9-0": {
+          "type": "play",
+          "settings": {
+          }
+        },
+        "template--15629100515380__bdb1ee20-2514-4729-8432-43566e21e106-16843851895f77ddb9-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--15629100515380__bdb1ee20-2514-4729-8432-43566e21e106-16843851895f77ddb9-0",
+        "template--15629100515380__bdb1ee20-2514-4729-8432-43566e21e106-16843851895f77ddb9-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=6YFn9Zj2iO0",
+        "poster": "shopify:\/\/shop_images\/Screen_Shot_2023-05-18_at_2.56.07_pm.png",
+        "text_color": "#0085ca",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166442457738b23caf-0",
+        "166442457738b23caf-1",
+        "166442457738b23caf-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.<\/p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "scrolling-text",
+    "featured-collection",
+    "1bd474d7-1127-4ce4-8b3e-23703b171fd8",
+    "1a666813-e0d2-43c6-b12f-c2351e65df6d",
+    "impact-text",
+    "collection-list",
+    "4cede670-071f-400e-bd38-9f809f1092f3",
+    "96dc7c9c-a682-4dcd-a5a8-7f1bba1e5509",
+    "image-with-text-overlay",
+    "bdb1ee20-2514-4729-8432-43566e21e106",
+    "faq"
+  ]
+}

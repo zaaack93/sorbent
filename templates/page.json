@@ -1,0 +1,77 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "2f6d1149-8488-4e9f-9c59-0ae35b28ec4a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15629100646452__2f6d1149-8488-4e9f-9c59-0ae35b28ec4a-168419709438c83256-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SORB_MAY_LS_WEB-36.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "Sustaina",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15629100646452__2f6d1149-8488-4e9f-9c59-0ae35b28ec4a-168419709438c83256-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "none",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#ffffff",
+        "background_gradient": ""
+      }
+    },
+    "03730d5b-acf8-4703-b06b-f2411c1a51ea": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15629100646452__03730d5b-acf8-4703-b06b-f2411c1a51ea-168419658367ceb72c-2": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3>Our Sustainability Commitment<\/h3><p>Sustainability is critical to our business now and in the future. As a socially, economically and environmentally responsible company we adhere to stringent Australian and international environmental laws, only sourcing our fibre from internationally certified suppliers. <\/p><p>We have extensive independent auditing across all aspects of our supply chain including PEFC, the largest global forest certification program. We are committed to zero deforestation and zero illegal logging. We sustainably manage forestry sources which conserve areas of outstanding habitat and operate in harmony with local communities. Our customers can have complete confidence in the products they buy from Solaris Paper, the origin of the materials used and the methods of manufacture. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15629100646452__03730d5b-acf8-4703-b06b-f2411c1a51ea-168419658367ceb72c-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2f6d1149-8488-4e9f-9c59-0ae35b28ec4a",
+    "03730d5b-acf8-4703-b06b-f2411c1a51ea"
+  ]
+}

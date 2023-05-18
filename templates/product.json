@@ -1,0 +1,315 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "425a20ff-2ac8-43b0-bf9b-7a695228145c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ product.metafields.custom.short_description | metafield_tag }}<\/p>"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "variant",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": true
+          }
+        },
+        "c970376e-9300-48d0-8183-74ed234fde77": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Key Benefits",
+            "content": "{{ product.metafields.custom.key_benefits | metafield_tag }}"
+          }
+        },
+        "60ee96dd-8281-48d4-9e29-7b5ceef11480": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Usage",
+            "content": "<p>{{ product.metafields.custom.how_to_use | metafield_tag }}<\/p>"
+          }
+        },
+        "1c764aa2-da10-4d33-bb50-dc9de91386f8": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Sustainability",
+            "content": "{{ product.metafields.custom.sustainability | metafield_tag }}"
+          }
+        },
+        "5a76dbb8-514c-422d-b289-934cddad6b51": {
+          "type": "associated_products",
+          "settings": {
+            "title": "Buy it with",
+            "stack_products": true,
+            "products_count": 5,
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "425a20ff-2ac8-43b0-bf9b-7a695228145c",
+        "badges",
+        "price",
+        "rating",
+        "payment_terms",
+        "separator",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "c970376e-9300-48d0-8183-74ed234fde77",
+        "60ee96dd-8281-48d4-9e29-7b5ceef11480",
+        "1c764aa2-da10-4d33-bb50-dc9de91386f8",
+        "5a76dbb8-514c-422d-b289-934cddad6b51"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": false,
+        "desktop_media_width": 50,
+        "desktop_media_layout": "grid_highlight",
+        "mobile_media_size": "contained",
+        "mobile_carousel_control": "free_scroll",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "#f7f7f7",
+        "input_text_color": "#002677"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "recommendations_count": 4,
+        "products": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].related_products.value }}",
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "5c04c824-3cdc-4692-8e37-ed995600f2d0": {
+      "type": "testimonials",
+      "blocks": {
+        "template--15629100744756__5c04c824-3cdc-4692-8e37-ed995600f2d0-16843840177e2f29ee-0": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": false,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Sheila (Amazon)",
+            "title": "Sorbent Is Best!",
+            "content": "<p>Sorbent toilet paper never lets you down, it’s soft, absorbent and excellent value for money.<\/p>"
+          }
+        },
+        "template--15629100744756__5c04c824-3cdc-4692-8e37-ed995600f2d0-16843840177e2f29ee-1": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": false,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Amy (Amazon)",
+            "title": "It’s toilet paper",
+            "content": "<p>It’s toilet paper what can I say it’s reliable and good lol<\/p>"
+          }
+        },
+        "template--15629100744756__5c04c824-3cdc-4692-8e37-ed995600f2d0-16843840177e2f29ee-2": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": false,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Raj (Amazon)",
+            "title": "Soft and Silky",
+            "content": "<p>Very soft for delicate skin. fantastic toilet paper.<\/p>"
+          }
+        },
+        "2a1f3984-0931-4f9f-bd19-22c088c79b0a": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": false,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Eddie G (Amazon)",
+            "title": "Clean Buttocks",
+            "content": "<p>Much better than sandpaper! Excellent product.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15629100744756__5c04c824-3cdc-4692-8e37-ed995600f2d0-16843840177e2f29ee-0",
+        "template--15629100744756__5c04c824-3cdc-4692-8e37-ed995600f2d0-16843840177e2f29ee-1",
+        "template--15629100744756__5c04c824-3cdc-4692-8e37-ed995600f2d0-16843840177e2f29ee-2",
+        "2a1f3984-0931-4f9f-bd19-22c088c79b0a"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "4.6\/5 from over 500 Reviews",
+        "title": "Testimonials from the Tush",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "97f76eb0-0800-4b6b-b9e2-80600c5246cc": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/Disperses_Quickly.png",
+            "mobile_icon_width": 100,
+            "icon_width": 120,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Dispersible, Biodegradable Paper",
+            "content": "<p>Suitable for all systems<\/p>"
+          }
+        },
+        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/extra_thick.png",
+            "mobile_icon_width": 100,
+            "icon_width": 120,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Extra Soft, Extra Thick",
+            "content": "<p>Made right here in Down Under, gently caring for bums for 70+ years.<\/p>"
+          }
+        },
+        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/Recylable.png",
+            "mobile_icon_width": 100,
+            "icon_width": 120,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Recyclable packaging and core",
+            "content": "<p>Simply drop off your plastic packaging at your local <a href=\"http:\/\/www.redcycle.net.au\/where-to-redcycle\/\" target=\"_blank\">Redcycle <\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-0",
+        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-1",
+        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related-products",
+    "5c04c824-3cdc-4692-8e37-ed995600f2d0",
+    "97f76eb0-0800-4b6b-b9e2-80600c5246cc"
+  ]
+}

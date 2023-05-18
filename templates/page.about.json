@@ -1,0 +1,225 @@
+{
+  "sections": {
+    "667faae3-5f56-403c-b8c4-19b0a893a103": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15629100613684__667faae3-5f56-403c-b8c4-19b0a893a103-16840648574bacfb40-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Us.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/About_Us_1.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-end-start text-start",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "subheading": "From Humble Beginnings",
+            "title": "About Us",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "template--15629100613684__667faae3-5f56-403c-b8c4-19b0a893a103-16840648574bacfb40-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15629100613684__667faae3-5f56-403c-b8c4-19b0a893a103-16840648574bacfb40-0",
+        "template--15629100613684__667faae3-5f56-403c-b8c4-19b0a893a103-16840648574bacfb40-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
+    "487a4e28-0d52-4bc0-a531-8ddb724d2ea4": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--15629100613684__487a4e28-0d52-4bc0-a531-8ddb724d2ea4-168406522457c17877-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KITCHEN-GRAB_dc3b72b5-1985-41f1-895e-ef4b792ebe40.gif",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Our Story",
+            "content": "<p>Since 1952, Sorbent has always been providing Australians with wide range of tissue products. We are committed to providing quality tissue products that are gentle on your skin and kind to the environment.<\/p><p>Through cooperation and collaboration, we can deliver Australian's favourite down under dunny rolls despite the magnitude of any external challenges. As a result, Sorbent has maintained its retail market share over the past few years. This fact is greatly helped by the number of retailers we serve who are long-standing clients of Sorbent, meaning most of our customer relationships are built on a solid foundation of trust.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#272727",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "fb2130e7-4943-4af1-b2f4-97726df8065f": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15629100613684__487a4e28-0d52-4bc0-a531-8ddb724d2ea4-168406522457c17877-0",
+        "fb2130e7-4943-4af1-b2f4-97726df8065f"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "small"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "28da7936-824c-4907-8353-68f8a3637956": {
+      "type": "impact-text",
+      "blocks": {
+        "template--15629100613684__28da7936-824c-4907-8353-68f8a3637956-16840653727947f6a4-0": {
+          "type": "item",
+          "settings": {
+            "title": "50 Million",
+            "subheading": "Aussies bums wiped",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "template--15629100613684__28da7936-824c-4907-8353-68f8a3637956-16840653727947f6a4-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.5,
+        "background": "#0085ca",
+        "background_gradient": "",
+        "heading_text_color": "#ffffff",
+        "heading_gradient": "",
+        "text_color": "#ffffff",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "452d8418-0a79-4e44-b29e-817eb32cf3e3": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "template--15629100613684__452d8418-0a79-4e44-b29e-817eb32cf3e3-1684065416e60aee13-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SORB_MAY_CREATIVE_WEB-10-EDIT.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Always Soft, Always Strong",
+            "content": "<p>Since our establishment in 1952, Sorbent has set out to fulfill customers' toilet roll needs. The 'Gentlest Tissue' jingle was our first classic, and memorable advertisement aired in 1956. It was the beginning of our softness becoming familiar among Australians. In 1990, we introduced our new product category, facial and towel. Product innovations have been the most critical aspects of our success as a company. <\/p>"
+          }
+        },
+        "template--15629100613684__452d8418-0a79-4e44-b29e-817eb32cf3e3-1684065416e60aee13-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SORB_MAY_CREATIVE_WEB-19-EDIT.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Our Favourite Down Under",
+            "content": "<p>Until today, we constantly met our beloved customers' needs improving the softness and thickness of our tissue rolls. To demonstrate our product’s quality, we created the ‘Our Favourite Down Under’ campaign in 2019, which captures the perfect toilet experience at home with a roll of Sorbent.<\/p>"
+          }
+        },
+        "a519d9ee-d893-4bce-bf67-9bccbcb53a7d": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SORB_MAY_LS_WEB.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "...",
+            "content": "<p>In 2020, our business had experienced challenges from raw materials, labour, and truck shortages due to the panic buying during COVID-19 pandemic. However, we dedicate to provide Australians with their toilet rolls needs despite any external challenges. This event led us to create our latest campaign, #SorbentAlwaysThere as a form of dedication of us to never cease to roll for Australia. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15629100613684__452d8418-0a79-4e44-b29e-817eb32cf3e3-1684065416e60aee13-0",
+        "template--15629100613684__452d8418-0a79-4e44-b29e-817eb32cf3e3-1684065416e60aee13-1",
+        "a519d9ee-d893-4bce-bf67-9bccbcb53a7d"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "667faae3-5f56-403c-b8c4-19b0a893a103",
+    "487a4e28-0d52-4bc0-a531-8ddb724d2ea4",
+    "main",
+    "28da7936-824c-4907-8353-68f8a3637956",
+    "452d8418-0a79-4e44-b29e-817eb32cf3e3"
+  ]
+}
