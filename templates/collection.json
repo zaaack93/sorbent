@@ -6,17 +6,17 @@
         "template--15629100482612__810d8469-54a2-44b0-8d36-1465871a35f5-168438003147d04040-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/All_Products_3.jpg",
+            "image": "shopify:\/\/shop_images\/SORB_MAY_CREATIVE_WEB-22-EDIT-02.jpg",
             "mobile_image": "shopify:\/\/shop_images\/all_products_2.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-start-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
-            "subheading": "",
+            "subheading": "Shop For The Whole Family",
             "title": "All Products",
-            "heading_tag": "h1",
+            "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
-            "text_color": "#002677",
+            "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
@@ -108,7 +108,7 @@
           "settings": {
             "logo": "shopify:\/\/shop_images\/Untitled_design_4.png",
             "logo_width": 300,
-            "link": ""
+            "link": "https:\/\/www.woolworths.com.au\/shop\/search\/products?searchTerm=sorbent"
           }
         },
         "template--15629100482612__e50ae1cf-169a-485b-8950-9c61db104580-16843816529a322516-1": {
@@ -116,7 +116,7 @@
           "settings": {
             "logo": "shopify:\/\/shop_images\/2_6ad06725-0475-4798-951a-101ae5374846.png",
             "logo_width": 300,
-            "link": ""
+            "link": "https:\/\/www.coles.com.au\/search?q=sorbent"
           }
         },
         "template--15629100482612__e50ae1cf-169a-485b-8950-9c61db104580-16843816529a322516-2": {
@@ -124,7 +124,7 @@
           "settings": {
             "logo": "shopify:\/\/shop_images\/Untitled_design_3.png",
             "logo_width": 300,
-            "link": ""
+            "link": "https:\/\/www.igashop.com.au\/search\/1?q=sorbent"
           }
         },
         "template--15629100482612__e50ae1cf-169a-485b-8950-9c61db104580-16843816529a322516-3": {

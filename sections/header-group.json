@@ -4,12 +4,11 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
-      "disabled": true,
       "blocks": {
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "1,000,000 trees planted daily",
             "url": ""
           }
         }
@@ -20,9 +19,9 @@
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#002677",
         "background_gradient": "",
         "text_color": "#ffffff"
       }

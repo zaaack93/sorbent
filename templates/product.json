@@ -228,7 +228,7 @@
       ],
       "settings": {
         "full_width": true,
-        "stack_testimonials": true,
+        "stack_testimonials": false,
         "subheading": "4.6\/5 from over 500 Reviews",
         "title": "Testimonials from the Tush",
         "content": "",
@@ -254,7 +254,7 @@
             "mobile_icon_width": 100,
             "icon_width": 120,
             "icon_background_type": "circle",
-            "icon_background": "",
+            "icon_background": "#ffffff",
             "icon_color": "",
             "title": "Dispersible, Biodegradable Paper",
             "content": "<p>Suitable for all systems<\/p>"
@@ -268,10 +268,10 @@
             "mobile_icon_width": 100,
             "icon_width": 120,
             "icon_background_type": "circle",
-            "icon_background": "",
+            "icon_background": "#ffffff",
             "icon_color": "",
             "title": "Extra Soft, Extra Thick",
-            "content": "<p>Made right here in Down Under, gently caring for bums for 70+ years.<\/p>"
+            "content": "<p>Made right here Down Under, gently caring for bums for 70+ years.<\/p>"
           }
         },
         "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-2": {
@@ -282,7 +282,7 @@
             "mobile_icon_width": 100,
             "icon_width": 120,
             "icon_background_type": "circle",
-            "icon_background": "",
+            "icon_background": "#ffffff",
             "icon_color": "",
             "title": "Recyclable packaging and core",
             "content": "<p>Simply drop off your plastic packaging at your local <a href=\"http:\/\/www.redcycle.net.au\/where-to-redcycle\/\" target=\"_blank\">Redcycle <\/a><\/p>"
@@ -300,7 +300,7 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }

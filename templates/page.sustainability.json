@@ -13,7 +13,7 @@
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "subheading": "Our Eco Impact",
             "title": "Sustainability",
-            "heading_tag": "h1",
+            "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
@@ -82,7 +82,7 @@
             "link_url": "",
             "background": "rgba(0,0,0,0)",
             "background_gradient": "",
-            "text_color": "#272727",
+            "text_color": "#002677",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -91,6 +91,7 @@
         "fb2130e7-4943-4af1-b2f4-97726df8065f": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Sorbent_9_d69683fb-bc50-4fd7-b6b7-3bbd195f7ca8.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
@@ -103,7 +104,7 @@
             "link_url": "",
             "background": "rgba(0,0,0,0)",
             "background_gradient": "",
-            "text_color": "#272727",
+            "text_color": "#002677",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -133,7 +134,7 @@
           "type": "item",
           "settings": {
             "title": "1,000,000",
-            "subheading": "Trees Planted So Far",
+            "subheading": "Trees Planted Per Day",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -146,17 +147,17 @@
         "template--15629100613684__28da7936-824c-4907-8353-68f8a3637956-16840653727947f6a4-0"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "stack_mobile": true,
         "text_alignment": "center",
         "impact_text_style": "fill",
         "text_divider": "none",
         "impact_text_size_ratio": 1,
-        "background": "",
+        "background": "#4ab163",
         "background_gradient": "",
-        "heading_text_color": "",
+        "heading_text_color": "#ffffff",
         "heading_gradient": "",
-        "text_color": "",
+        "text_color": "#f7f7f7",
         "button_background": "",
         "button_text_color": ""
       }
@@ -204,19 +205,22 @@
     },
     "452d8418-0a79-4e44-b29e-817eb32cf3e3": {
       "type": "images-with-text-scrolling",
+      "disabled": true,
       "blocks": {
         "template--15629100613684__452d8418-0a79-4e44-b29e-817eb32cf3e3-1684065416e60aee13-0": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Sorbent_10.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Legal Raw Material Sourcing",
-            "content": "<p>We have implemented comprehensive systems that are independently audited to verify the legality and responsible management of our forest sources to maintain a zero-tolerance policy for any illegal fibre entering our supply chain. Sorbent also follows the strict due diligence require<\/p>"
+            "content": "<p>We have implemented comprehensive systems that are independently audited to verify the legality and responsible management of our forest sources to maintain a zero-tolerance policy for any illegal fibre entering our supply chain. Sorbent also follows the strict due diligence required.<\/p>"
           }
         },
         "template--15629100613684__452d8418-0a79-4e44-b29e-817eb32cf3e3-1684065416e60aee13-1": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/SORB-Cockatoo-02-1x1.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Verification of Legal Origin and Chain of Custody protocols",
@@ -226,6 +230,7 @@
         "a519d9ee-d893-4bce-bf67-9bccbcb53a7d": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Sorbent_5.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Programme for the Endorsement of Forest Certification (PEFC)",
@@ -254,11 +259,78 @@
     "10e7825c-a66d-4f7b-82d7-ca1ffe74d66e": {
       "type": "media-with-text",
       "blocks": {
+        "ecd02387-a1f5-41ac-995f-dddfda1e37d9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sorbent_10_012bff52-fed6-4e6a-a4c7-d3523535222f.jpg",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Legal Raw Material Sourcing",
+            "content": "<p>We have implemented comprehensive systems that are independently audited to verify the legality and responsible management of our forest sources to maintain a zero-tolerance policy for any illegal fibre entering our supply chain. Sorbent also follows the strict due diligence required.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#002677",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "9e3cff40-63bb-43bb-829b-8a318a5159bc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SORB-Cockatoo-02-1x1_3c916312-42f9-4907-b592-88d976985b29.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Verification of Legal Origin and Chain of Custody protocols",
+            "content": "<p>We believe in complete transparency regarding the origin of our raw materials. Our Legal Origin Verification and Chain-of-Custody protocols provide full transparency on the origin of our raw materials, giving our customers peace of mind that our products are responsibly sourced. We also work closely with our suppliers to ensure they comply with national and international regulations. <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#002677",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "f324d380-0c62-402c-8d51-715998738e2e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sorbent_5_227a26da-6005-4cb7-bba0-17b3c54456a5.png",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Programme for the Endorsement of Forest Certification (PEFC)",
+            "content": "<p>As part of our commitment to our customers, we have submitted to be assessed by independent national forestry management schemes against internationally recognised criteria for sustainable forest management. <\/p><p>Our goal is to ensure that all our raw materials meet PEFC CoC certification or are non-controversial sources under PEFC guidelines, assuring customers that our products have a minimal environmental impact.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#002677",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
         "876cdc3e-6772-4ea3-9093-fdbafccfc39d": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Sorbent_6.jpg",
             "media_width": 50,
-            "media_position": "end",
+            "media_position": "start",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
@@ -269,7 +341,7 @@
             "link_url": "",
             "background": "rgba(0,0,0,0)",
             "background_gradient": "",
-            "text_color": "#272727",
+            "text_color": "#002677",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -278,8 +350,9 @@
         "036d461b-0eac-4a2f-a81b-4e0c35f516a0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Sorbent_7.jpg",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
@@ -290,7 +363,7 @@
             "link_url": "",
             "background": "rgba(0,0,0,0)",
             "background_gradient": "",
-            "text_color": "#272727",
+            "text_color": "#002677",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -298,6 +371,9 @@
         }
       },
       "block_order": [
+        "ecd02387-a1f5-41ac-995f-dddfda1e37d9",
+        "9e3cff40-63bb-43bb-829b-8a318a5159bc",
+        "f324d380-0c62-402c-8d51-715998738e2e",
         "876cdc3e-6772-4ea3-9093-fdbafccfc39d",
         "036d461b-0eac-4a2f-a81b-4e0c35f516a0"
       ],

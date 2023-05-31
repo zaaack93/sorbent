@@ -2,6 +2,23 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "1c075901-9073-4af7-afd9-31656d002098": {
+      "type": "newsletter",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "show_icon": false,
+        "title": "Newsletter",
+        "content": "<p>Write something about what your customers will receive by subscribing to your newsletter.<\/p>",
+        "button_text": "Subscribe",
+        "subtext": "",
+        "background": "#0085ca",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "text-with-icons": {
       "type": "text-with-icons",
       "disabled": true,
@@ -79,6 +96,13 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "support",
+            "show_menu_title": true
+          }
+        },
         "text": {
           "type": "text",
           "settings": {
@@ -87,40 +111,33 @@
             "enable_follow_on_shop": false
           }
         },
-        "links": {
-          "type": "links",
+        "d7a856e4-f96a-44f4-aeef-4c5d3262c2a4": {
+          "type": "text",
           "settings": {
-            "menu": "support",
-            "show_menu_title": true
+            "title": "Paper friends.",
+            "content": "<p>Love our products? Need a hand cleaning up a spill? You should check out our paper friends at Handee. <\/p>",
+            "enable_follow_on_shop": true
           }
         },
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "image_width": 150,
+            "image_width": 210,
             "heading_size": "h3",
             "title": "Bored on the loo?",
             "content": "<p>Sign up for new reading material and exclusive offers.<\/p>"
           }
-        },
-        "20d2194b-7836-4e1d-9c51-b36498bd6e38": {
-          "type": "links",
-          "disabled": true,
-          "settings": {
-            "menu": "new-main",
-            "show_menu_title": false
-          }
         }
       },
       "block_order": [
-        "text",
         "links",
-        "newsletter",
-        "20d2194b-7836-4e1d-9c51-b36498bd6e38"
+        "text",
+        "d7a856e4-f96a-44f4-aeef-4c5d3262c2a4",
+        "newsletter"
       ],
       "settings": {
         "show_social_media": true,
-        "show_payment_icons": true,
+        "show_payment_icons": false,
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": true,
@@ -129,6 +146,7 @@
     }
   },
   "order": [
+    "1c075901-9073-4af7-afd9-31656d002098",
     "text-with-icons",
     "footer"
   ]

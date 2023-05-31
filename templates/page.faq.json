@@ -6,10 +6,11 @@
         "template--15629100613684__667faae3-5f56-403c-b8c4-19b0a893a103-16840648574bacfb40-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/SORB_MAY_CREATIVE_WEB-11-16x9.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center-start text-start",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
-            "subheading": "",
+            "subheading": "Bored On The Loo?",
             "title": "Frequently Asked Questions",
             "heading_tag": "h0",
             "button_text": "",
@@ -18,7 +19,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
@@ -57,13 +58,20 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
     "bc685147-3be6-4d9f-b94a-d22ce93b1020": {
       "type": "faq",
       "blocks": {
+        "5f8721cb-917d-493f-b94e-145c99bf261a": {
+          "type": "item",
+          "settings": {
+            "title": "Do you fold or scrunch?",
+            "content": "<p>Great question! But truthfully there is no right answer. We appreciate all wipers.<\/p>"
+          }
+        },
         "template--15629100613684__bc685147-3be6-4d9f-b94a-d22ce93b1020-1684095271a8731211-0": {
           "type": "item",
           "settings": {
@@ -87,6 +95,7 @@
         }
       },
       "block_order": [
+        "5f8721cb-917d-493f-b94e-145c99bf261a",
         "template--15629100613684__bc685147-3be6-4d9f-b94a-d22ce93b1020-1684095271a8731211-0",
         "template--15629100613684__bc685147-3be6-4d9f-b94a-d22ce93b1020-1684095271a8731211-1",
         "template--15629100613684__bc685147-3be6-4d9f-b94a-d22ce93b1020-1684095271a8731211-2"
@@ -94,7 +103,7 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "FAQ",
+        "title": "FAQ from the loo.",
         "content": "<p>Explore our most common questions below or reach out to our customer service team <a href=\"\/pages\/contact\" title=\"Contact\">here<\/a>. <\/p>",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
@@ -122,6 +131,7 @@
     },
     "28da7936-824c-4907-8353-68f8a3637956": {
       "type": "impact-text",
+      "disabled": true,
       "blocks": {
         "template--15629100613684__28da7936-824c-4907-8353-68f8a3637956-16840653727947f6a4-0": {
           "type": "item",
