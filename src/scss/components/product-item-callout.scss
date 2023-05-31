@@ -1,0 +1,17 @@
+.callout-container{
+    position: absolute;
+    top: 9px;
+    left: 12px;
+    display: flex;
+    row-gap: 6px;
+    flex-direction: column;
+    .callout-badge{
+        padding: 4px 13px;
+        border-radius: 20px;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 26px;
+        color: white;
+        width: fit-content;
+    }
+}

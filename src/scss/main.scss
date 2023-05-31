@@ -1,0 +1,14 @@
+@import "./components/product-item-callout.scss";
+@import "./components/product_item.scss";
+
+.no-padd {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.icon_with_container{
+    img{
+        display: inline-block;
+        margin: 0px;
+        margin-right: 19px;
+    }
+}

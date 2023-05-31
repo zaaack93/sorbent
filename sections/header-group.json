@@ -46,6 +46,9 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
+        "featured_button_link": "shopify:\/\/collections",
+        "featured_button_label": "Shop All Sorbent",
+        "featured_button_background": "#002677",
         "reduce_padding": true,
         "background_opacity": 100,
         "background_blur_radius": 0

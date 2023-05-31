@@ -253,17 +253,23 @@ the underlying logic of the menu.
             </div>
           {%- endif -%}
 
+          {% if section.settings.featured_button_label != blank %}
+            <div class="hidden md:block shrink-0">
+              {%- render 'button', href: section.settings.featured_button_link, content: section.settings.featured_button_label, size: 'md', background: section.settings.featured_button_background -%}
+            </div>
+          {%endif%}
+
           <a href="{{ routes.search_url }}" class="hidden tap-area sm:block" aria-controls="search-drawer">
             <span class="sr-only">{{ 'header.general.open_search' | t }}</span>
             {%- render 'icon' with 'search' -%}
           </a>
           
-          {%- if shop.customer_accounts_enabled -%}
+          {% comment %} {%- if shop.customer_accounts_enabled -%}
             <a href="{{ routes.account_url }}" class="hidden tap-area sm:block">
               <span class="sr-only">{{ 'header.general.open_account' | t }}</span>
               {%- render 'icon' with 'account' -%}
             </a>
-          {%- endif -%}
+          {%- endif -%} {% endcomment %}
 
           <a href="{{ routes.cart_url }}" data-no-instant class="relative tap-area" {% if settings.cart_type != 'page' and request.page_type != 'cart' %}aria-controls="cart-drawer"{% endif %}>
             <span class="sr-only">{{ 'header.general.open_cart' | t }}</span>
@@ -510,6 +516,27 @@ the underlying logic of the menu.
       "id": "transparent_logo",
       "label": "Logo image",
       "info": "Use the same dimensions as main logo."
+    },
+    {
+      "type": "header",
+      "content": "Desktop button header"
+    },
+    {
+      "type": "url",
+      "id": "featured_button_link",
+      "label": "Link"
+    },
+    {
+      "type": "text",
+      "id": "featured_button_label",
+      "label": "Label",
+      "default": "Shop Now"
+    },
+    {
+      "type": "color",
+      "id": "featured_button_background",
+      "label": "Button background",
+      "default": "#ffffff"
     },
     {
       "type": "header",

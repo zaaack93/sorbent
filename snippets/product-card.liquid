@@ -57,6 +57,8 @@ Supported variables
     {%- render 'product-badges', product: product, class: 'product-card__badge-list' -%}
   {%- endif -%}
 
+  {% render 'product-callout', product: product%}
+
   {%- comment -%}
   --------------------------------------------------------------------------------------------------------------------
   PRODUCT MEDIA
@@ -157,7 +159,14 @@ Supported variables
         <span class="product-card__title"><a href="{{ product.url }}" class="bold" data-instant>{{ product.title }}</a></span>
       {%- endif -%}
 
-      {%- render 'price-list', product: product, text_alignment: text_alignment -%}
+      {% comment %} {%- render 'price-list', product: product, text_alignment: text_alignment -%} {% endcomment %}
+
+      {% if product.variants.size > 1 %}
+        <p class="number_of_sizes">{{ product.variants.size }} Sizes available</p>
+      {% elsif product.variants.size == 1 %}
+        <p class="number_of_sizes">{{ product.variants.size }} Size available</p>
+      {% endif %}
+      
     </div>
 
     {%- if show_rating and mobile_reduced or text_alignment == 'center' -%}

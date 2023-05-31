@@ -1,0 +1,36 @@
+.callout-container {
+  position: absolute;
+  top: 9px;
+  left: 12px;
+  display: flex;
+  row-gap: 6px;
+  flex-direction: column;
+}
+.callout-container .callout-badge {
+  padding: 4px 13px;
+  border-radius: 20px;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 26px;
+  color: white;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+product-card .number_of_sizes {
+  font-weight: 300;
+  font-size: 16px;
+  letter-spacing: -0.48px;
+  color: #000000;
+}
+
+.no-padd {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.icon_with_container img {
+  display: inline-block;
+  margin: 0px;
+  margin-right: 19px;
+}

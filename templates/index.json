@@ -41,6 +41,48 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "55252446-4fd6-4fb4-8e83-121d9dff1105": {
+      "type": "scrolling-text-v2",
+      "blocks": {
+        "2d370a2f-ca30-46b5-9223-881c6744c3f1": {
+          "type": "icon",
+          "settings": {
+            "key_icon": "shopify:\/\/shop_images\/Layer_1.png",
+            "key_text": "Breaks Down in Seconds"
+          }
+        },
+        "abb59f23-489c-48cf-8ab9-34facf92595f": {
+          "type": "icon",
+          "settings": {
+            "key_icon": "shopify:\/\/shop_images\/Layer_1_1.png",
+            "key_text": "Serving Aussies for 70+ years"
+          }
+        },
+        "c45b1b9f-7412-41cd-b706-c20a2dcb446a": {
+          "type": "icon",
+          "settings": {
+            "key_icon": "shopify:\/\/shop_images\/Layer_1_2.png",
+            "key_text": "Always Soft, Always Strong"
+          }
+        }
+      },
+      "block_order": [
+        "2d370a2f-ca30-46b5-9223-881c6744c3f1",
+        "abb59f23-489c-48cf-8ab9-34facf92595f",
+        "c45b1b9f-7412-41cd-b706-c20a2dcb446a"
+      ],
+      "settings": {
+        "full_width": true,
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 7,
+        "background": "#002677",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
     "scrolling-text": {
       "type": "scrolling-text",
       "settings": {
@@ -527,6 +569,7 @@
   },
   "order": [
     "slideshow",
+    "55252446-4fd6-4fb4-8e83-121d9dff1105",
     "scrolling-text",
     "featured-collection",
     "96dc7c9c-a682-4dcd-a5a8-7f1bba1e5509",
