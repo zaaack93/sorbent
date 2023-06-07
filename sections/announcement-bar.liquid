@@ -29,7 +29,14 @@
   {%- endcomment -%}
 
   <height-observer variable="announcement-bar">
-    <div {% render 'surface', class: 'announcement-bar', background_gradient: section.settings.background_gradient, background: section.settings.background, text_color: section.settings.text_color %}>
+    {% assign background = section.settings.background %}
+    {% if template.name == 'product' %}
+      {% assign background = section.settings.background_pdp %}
+    {% elsif template.name == 'page' %}
+      {% assign background = section.settings.background_content %}
+    {%endif%}
+
+    <div {% render 'surface', class: 'announcement-bar', background_gradient: section.settings.background_gradient, background: background, text_color: section.settings.text_color %}>
       {%- if section.settings.navigation_mode == 'scrolling' -%}
         <marquee-text scrolling-speed="{{ section.settings.scrolling_speed }}" class="announcement-bar__scrolling-list">
           {%- capture content -%}
@@ -179,6 +186,16 @@
       "type": "color",
       "id": "background",
       "label": "Background"
+    },
+    {
+      "type": "color",
+      "id": "background_content",
+      "label": "Background for content page"
+    },
+    {
+      "type": "color",
+      "id": "background_pdp",
+      "label": "Background for product page"
     },
     {
       "type": "color_background",
