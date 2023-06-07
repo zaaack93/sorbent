@@ -30,6 +30,10 @@ product-card .number_of_sizes {
   padding-bottom: 36px;
 }
 
+.header.is-filled .custom-button-all a {
+  background-color: #3785C4;
+}
+
 .no-padd {
   padding-left: 0px;
   padding-right: 0px;

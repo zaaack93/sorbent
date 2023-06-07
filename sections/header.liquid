@@ -254,7 +254,7 @@ the underlying logic of the menu.
           {%- endif -%}
 
           {% if section.settings.featured_button_label != blank %}
-            <div class="hidden md:block shrink-0">
+            <div class="hidden md:block shrink-0 custom-button-all">
               {%- render 'button', href: section.settings.featured_button_link, content: section.settings.featured_button_label, size: 'md', background: section.settings.featured_button_background -%}
             </div>
           {%endif%}
