@@ -15,6 +15,7 @@
   color: white;
   width: -moz-fit-content;
   width: fit-content;
+  z-index:10;
 }
 
 product-card .number_of_sizes {

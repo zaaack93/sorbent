@@ -104,13 +104,13 @@
         "full_width": true,
         "subheading": "",
         "title": "FAQ from the loo.",
-        "content": "<p>Explore our most common questions below or reach out to our customer service team <a href=\"\/pages\/contact\" title=\"Contact\">here<\/a>. <\/p>",
-        "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "content": "<p>Explore our most common questions here, or reach out to our cheeky customer service team below.<\/p>",
+        "team_avatar_width": 350,
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
-        "text_position": "center",
+        "text_position": "start",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -164,12 +164,68 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "d063b859-5d69-459f-b9ba-898fc9a3a5a0": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--15641657081908__d063b859-5d69-459f-b9ba-898fc9a3a5a0-1686034312d3903c1f-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sorbent_Sunny-Cockatoo_Master-Asset_RGB-BLOCK.png",
+            "media_width": 55,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "Need something answered?",
+            "title": "",
+            "content": "<h1>Sunny the cockatoo can help with that!<\/h1>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#1a3761",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15641657081908__d063b859-5d69-459f-b9ba-898fc9a3a5a0-1686034312d3903c1f-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "none"
+      }
+    },
+    "5ddadcea-7577-4f1c-848b-9668aa642c58": {
+      "type": "contact",
+      "settings": {
+        "full_width": true,
+        "subheading": "Contact Us",
+        "title": "Let Sunny Answer your questions here.",
+        "content": "<p>Need something answered? Want to find out if we are folders or crunchers? Sunny the Customer Service Cockatoo will sort you out. After all, he knows this business better than anyone!<\/p><p>Drop him a line and he will get back to you shortly.<\/p>",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
     "667faae3-5f56-403c-b8c4-19b0a893a103",
     "bc685147-3be6-4d9f-b94a-d22ce93b1020",
     "main",
-    "28da7936-824c-4907-8353-68f8a3637956"
+    "28da7936-824c-4907-8353-68f8a3637956",
+    "d063b859-5d69-459f-b9ba-898fc9a3a5a0",
+    "5ddadcea-7577-4f1c-848b-9668aa642c58"
   ]
 }

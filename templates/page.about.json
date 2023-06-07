@@ -69,7 +69,7 @@
         "template--15629100613684__487a4e28-0d52-4bc0-a531-8ddb724d2ea4-168406522457c17877-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/KITCHEN-GRAB_dc3b72b5-1985-41f1-895e-ef4b792ebe40.gif",
+            "image": "shopify:\/\/shop_images\/KITCHEN-STACK-1x1.gif",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center-start text-start",
@@ -153,7 +153,7 @@
         "impact_text_style": "fill",
         "text_divider": "none",
         "impact_text_size_ratio": 0.5,
-        "background": "#0085ca",
+        "background": "#1098d5",
         "background_gradient": "",
         "heading_text_color": "#ffffff",
         "heading_gradient": "",
@@ -213,6 +213,33 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "70ada8cc-c04f-4760-9109-2c080cd61079": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "all-products",
+        "products": [
+
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 4,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Shop Our Best Sellers",
+        "content": "",
+        "link_url": "shopify:\/\/collections\/all-products",
+        "link_text": "Shop All",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -220,6 +247,7 @@
     "487a4e28-0d52-4bc0-a531-8ddb724d2ea4",
     "main",
     "28da7936-824c-4907-8353-68f8a3637956",
-    "452d8418-0a79-4e44-b29e-817eb32cf3e3"
+    "452d8418-0a79-4e44-b29e-817eb32cf3e3",
+    "70ada8cc-c04f-4760-9109-2c080cd61079"
   ]
 }

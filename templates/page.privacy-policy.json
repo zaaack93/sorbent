@@ -1,0 +1,153 @@
+{
+  "sections": {
+    "487a4e28-0d52-4bc0-a531-8ddb724d2ea4": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--15629100613684__487a4e28-0d52-4bc0-a531-8ddb724d2ea4-168406522457c17877-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/marcus-wallis-uZT4roL70xg-unsplash-2000x1500.jpg",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Zero Deforestation Policy",
+            "content": "<p>We know that our customers care about the environment just as much as we do. We pride ourselves on being environmentally conscious and responsible. Our strict zero deforestation policy is a testament to our commitment to sustainability, and we are committed to replanting 1,000,000 trees daily. In addition, we take a holistic approach to our supply chain, from responsible sourcing to clean production, ensuring that we do our part to protect the environment and the communities around our operations.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#1a3761",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "fb2130e7-4943-4af1-b2f4-97726df8065f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_d693f0af-e18b-462d-b61f-1eba55a7bdaf.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Community Driven",
+            "content": "<p>Sorbent is more than just a tissue brand. We believe in the power of community and the importance of education and empowerment. That is why we are committed to supporting the communities around our operations and working towards successful forest conservation.<\/p><p>We look forward to continuing to serve you with quality, sustainable products that make your life easier while protecting our environment.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#1a3761",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15629100613684__487a4e28-0d52-4bc0-a531-8ddb724d2ea4-168406522457c17877-0",
+        "fb2130e7-4943-4af1-b2f4-97726df8065f"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "small"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "content_width": "100ch"
+      }
+    },
+    "380489ba-5fde-4154-9faf-9ebea12bf5de": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15634674614324__380489ba-5fde-4154-9faf-9ebea12bf5de-1684096391716e6bc0-0": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--15634674614324__380489ba-5fde-4154-9faf-9ebea12bf5de-1684096391716e6bc0-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Certification and Accreditations",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "template--15634674614324__380489ba-5fde-4154-9faf-9ebea12bf5de-1684096391716e6bc0-2": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15634674614324__380489ba-5fde-4154-9faf-9ebea12bf5de-1684096391716e6bc0-0",
+        "template--15634674614324__380489ba-5fde-4154-9faf-9ebea12bf5de-1684096391716e6bc0-1",
+        "template--15634674614324__380489ba-5fde-4154-9faf-9ebea12bf5de-1684096391716e6bc0-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "183d07c8-7b57-4b02-b037-0dc926ee2ca2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15645875142708__183d07c8-7b57-4b02-b037-0dc926ee2ca2-1686105157533b4df7-0": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--15645875142708__183d07c8-7b57-4b02-b037-0dc926ee2ca2-1686105157533b4df7-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "template--15645875142708__183d07c8-7b57-4b02-b037-0dc926ee2ca2-1686105157533b4df7-2": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15645875142708__183d07c8-7b57-4b02-b037-0dc926ee2ca2-1686105157533b4df7-0",
+        "template--15645875142708__183d07c8-7b57-4b02-b037-0dc926ee2ca2-1686105157533b4df7-1",
+        "template--15645875142708__183d07c8-7b57-4b02-b037-0dc926ee2ca2-1686105157533b4df7-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "487a4e28-0d52-4bc0-a531-8ddb724d2ea4",
+    "main",
+    "380489ba-5fde-4154-9faf-9ebea12bf5de",
+    "183d07c8-7b57-4b02-b037-0dc926ee2ca2"
+  ]
+}

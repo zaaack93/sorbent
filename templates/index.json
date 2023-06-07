@@ -6,7 +6,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SORB_MAY_CREATIVE_HIGHRES-24-EDIT-02.jpg",
+            "image": "shopify:\/\/shop_images\/SORB_MAY_CREATIVE_HIGHRES-24-EDIT-02-SUNNY_b37f8e7c-6a1a-4f93-a14f-990d80127eac.jpg",
             "mobile_image": "shopify:\/\/shop_images\/SORB_MAY_CREATIVE_WEB-19.jpg",
             "content_max_width": 860,
             "mobile_text_position": "place-self-start-center text-center",
@@ -17,7 +17,7 @@
             "button_text": "Shop All Sorbent",
             "button_link": "shopify:\/\/collections\/all-products",
             "text_color": "#ffffff",
-            "button_background": "#002677",
+            "button_background": "#1a3761",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 0,
@@ -32,7 +32,7 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
-        "image_size": "lg",
+        "image_size": "fill",
         "controls_type": "numbers",
         "transition_type": "fade_with_text",
         "autoplay": true,
@@ -77,7 +77,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 7,
-        "background": "#002677",
+        "background": "#1a3761",
         "background_gradient": "",
         "text_color": "#ffffff",
         "text_gradient": ""
@@ -85,6 +85,7 @@
     },
     "scrolling-text": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "text": "Always Soft, Always Strong",
@@ -114,8 +115,8 @@
         "subheading": "",
         "title": "Our Best Sellers",
         "content": "<p>Tried and tested by folders and scrunchers for the past 70 years. <\/p>",
-        "link_url": "shopify:\/\/collections\/toilet-tissue",
-        "link_text": "Shop All Toilet Paper",
+        "link_url": "shopify:\/\/collections\/all",
+        "link_text": "Shop All Products",
         "background": "#f2f2f2",
         "background_gradient": "",
         "text_color": "",
@@ -231,8 +232,8 @@
     "1a666813-e0d2-43c6-b12f-c2351e65df6d": {
       "type": "revealed-image-on-scroll",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Sorbent_Reveal.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/Sorbent_Reveal_1.jpg",
+        "image": "shopify:\/\/shop_images\/SORB_MAY_lifestyle_web-6_753575c8-4e2d-40e2-993f-b46b2662fe86.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/SORB_MAY_lifestyle_web-6_753575c8-4e2d-40e2-993f-b46b2662fe86.jpg",
         "subheading": "",
         "title": "New Packaging! On Shelves Soon!",
         "background": "",
@@ -246,10 +247,10 @@
         "1664424181b38582d5-0": {
           "type": "item",
           "settings": {
-            "title": "60,000,000",
-            "subheading": "Aussie bums wiped, and counting.",
-            "content": "",
-            "button_text": "Shop All Sorbent",
+            "title": "1,000,000",
+            "subheading": "Trees planted daily",
+            "content": "<p>Did you know that while you're enjoying the softness of Sorbent, we're busy planting trees like there's no tomorrow? With one million trees planted daily, we're making the world a little greener, one roll at a time.<\/p>",
+            "button_text": "",
             "button_url": "shopify:\/\/collections\/all-products",
             "animate_impact_text": true,
             "animate_impact_text_duration": 1.1
@@ -279,12 +280,12 @@
         "text_alignment": "center",
         "impact_text_style": "fill",
         "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "#f2f2f2",
+        "impact_text_size_ratio": 1.1,
+        "background": "#009961",
         "background_gradient": "",
-        "heading_text_color": "#002677",
+        "heading_text_color": "#ffffff",
         "heading_gradient": "",
-        "text_color": "#002677",
+        "text_color": "#ffffff",
         "button_background": "#a05eb5",
         "button_text_color": ""
       }
@@ -351,7 +352,7 @@
         "subheading": "",
         "title": "Wipe Your Way",
         "content": "",
-        "link_url": "",
+        "link_url": "shopify:\/\/collections\/all",
         "link_text": "Shop All Products",
         "background": "",
         "background_gradient": "",
@@ -410,12 +411,12 @@
             "content": "<p>We're not just about saving the day in the bathroom; we're passionate about saving the planet too. Sorbent is on a mission to make sustainability cool. We're committed to reducing our environmental footprint while still giving you the softness and strength you love. Join us on this eco-friendly journey and feel good about every wipe.<\/p>",
             "link_text": "Learn more about our efforts",
             "link_url": "shopify:\/\/pages\/sustainability",
-            "background": "#4ab163",
+            "background": "#009961",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
-            "button_background": "#002677",
-            "button_text_color": ""
+            "button_background": "#ffffff",
+            "button_text_color": "#009961"
           }
         }
       },
@@ -475,29 +476,36 @@
         "8e978904-04ab-454b-8f64-796821d3bc10": {
           "type": "item",
           "settings": {
-            "title": "Do you fold or scrunch?",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..<\/p>"
+            "title": "Which is better - folding or schrunching?",
+            "content": "<p>Ah, the great debate! Whether you're a meticulous folder or an adventurous scruncher, we believe in the freedom to choose your own TP destiny. After all, it's your bathroom kingdom, and Sorbent is here to provide comfort, no matter your preferred technique.<\/p>"
           }
         },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+            "title": "How many rolls of Sorbent can fit in the glove compartment of my car?",
+            "content": "<p>We've conducted extensive glove compartment studies, and our research indicates that precisely 4.5 rolls of Sorbent can fit snugly alongside your car registration and a few expired parking tickets.<\/p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+            "title": "Can I use Sorbent to dress up as a mummy for Halloween?",
+            "content": "<p>While we appreciate your enthusiasm for creativity, we recommend using toilet paper for more practical purposes. However, if you're aiming to be the comfiest mummy in town, we won't stop you.<\/p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+            "title": "How many rolls of Sorbent should I carry for a camping adventure in the Aussie bush?",
+            "content": "<p>Our rule of thumb is to pack enough rolls to last your camping trip, plus a few extras for those unexpected emergencies. Remember, in the Aussie bush, it's always better to be overprepared than caught without a roll in sight.<\/p>"
+          }
+        },
+        "2f65e48a-2965-4235-9692-6a4432f804e9": {
+          "type": "item",
+          "settings": {
+            "title": "Any questions?",
+            "content": "<p>If you want to reach out to our customer service team, don't hesitate to drop us a line via our <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">Contact Us<\/a> page or the form below. <\/p>"
           }
         }
       },
@@ -505,13 +513,14 @@
         "8e978904-04ab-454b-8f64-796821d3bc10",
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "2f65e48a-2965-4235-9692-6a4432f804e9"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
         "title": "FAQ from the loo",
-        "content": "<p>Use this text to share information about your product or shipping policies.<\/p>",
+        "content": "<p>Unraveling the Mysteries of Sorbent Toilet Paper - Your Questions, Answered!<\/p>",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
@@ -546,18 +555,52 @@
         "button_text_color": ""
       }
     },
+    "59bb6f5a-4f00-491b-b901-f2f051c5937b": {
+      "type": "media-with-text",
+      "blocks": {
+        "c6ddaac6-9d55-49f2-abab-b74c08511682": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sorbent_Sunny-Cockatoo_Master-Asset_RGB-BLOCK.png",
+            "media_width": 55,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<h1>Meet Sunny the Cockatoo. <\/h1><h4>Our resident specialist in all things soft and Sorbent.<\/h4>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#1a3761",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "c6ddaac6-9d55-49f2-abab-b74c08511682"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "none"
+      }
+    },
     "fe01cd95-3750-4b38-8864-47ce88e5ef31": {
       "type": "contact",
       "settings": {
-        "full_width": true,
-        "subheading": "Contact Us",
-        "title": "We're Here to Wipe Away Your Concerns",
-        "content": "",
+        "full_width": false,
+        "subheading": "",
+        "title": "Ask Sunny a question below",
+        "content": "<p>Need help deciding whether to fold or scrunch? Sunny the Cockatoo will sort you out. After all, he knows the business of soft service better than anyone!<\/p>",
         "text_position": "start",
         "contact_form_size": "small",
         "background": "",
         "background_gradient": "",
-        "text_color": "#002677",
+        "text_color": "#1a3761",
         "heading_color": "",
         "heading_gradient": "",
         "contact_background": "",
@@ -582,6 +625,7 @@
     "image-with-text-overlay",
     "faq",
     "82e96f84-3b30-4249-ab4e-82c11e7d50bb",
+    "59bb6f5a-4f00-491b-b901-f2f051c5937b",
     "fe01cd95-3750-4b38-8864-47ce88e5ef31"
   ]
 }

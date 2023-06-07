@@ -50,6 +50,7 @@
         },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
@@ -104,6 +105,7 @@
         },
         "5a76dbb8-514c-422d-b289-934cddad6b51": {
           "type": "associated_products",
+          "disabled": true,
           "settings": {
             "title": "Buy it with",
             "stack_products": true,
@@ -304,12 +306,91 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "17563630-d2bc-4b75-8e5a-2c95be30673b": {
+      "type": "faq",
+      "disabled": true,
+      "blocks": {
+        "template--15641657245748__17563630-d2bc-4b75-8e5a-2c95be30673b-1686106425541980d0-0": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+          }
+        },
+        "template--15641657245748__17563630-d2bc-4b75-8e5a-2c95be30673b-1686106425541980d0-1": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+          }
+        },
+        "template--15641657245748__17563630-d2bc-4b75-8e5a-2c95be30673b-1686106425541980d0-2": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15641657245748__17563630-d2bc-4b75-8e5a-2c95be30673b-1686106425541980d0-0",
+        "template--15641657245748__17563630-d2bc-4b75-8e5a-2c95be30673b-1686106425541980d0-1",
+        "template--15641657245748__17563630-d2bc-4b75-8e5a-2c95be30673b-1686106425541980d0-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ From The Loo",
+        "content": "<p>Explore our most common questions below, or reach out to our cheeky customer service team <a href=\"\/pages\/contact\" title=\"Contact\">here<\/a>.<\/p>",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "f448fb2d-7d5c-46fe-8eb5-1af2c0af6b54": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [
+
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "related-products",
     "5c04c824-3cdc-4692-8e37-ed995600f2d0",
-    "97f76eb0-0800-4b6b-b9e2-80600c5246cc"
+    "97f76eb0-0800-4b6b-b9e2-80600c5246cc",
+    "17563630-d2bc-4b75-8e5a-2c95be30673b",
+    "f448fb2d-7d5c-46fe-8eb5-1af2c0af6b54"
   ]
 }
