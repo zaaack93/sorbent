@@ -270,7 +270,7 @@ the underlying logic of the menu.
               {%- render 'icon' with 'account' -%}
             </a>
           {%- endif -%} {% endcomment %}
-
+          {% if settings.enable_cart %}
           <a href="{{ routes.cart_url }}" data-no-instant class="relative tap-area" {% if settings.cart_type != 'page' and request.page_type != 'cart' %}aria-controls="cart-drawer"{% endif %}>
             <span class="sr-only">{{ 'header.general.open_cart' | t }}</span>
             {%- render 'icon' with 'cart' -%}
@@ -281,6 +281,7 @@ the underlying logic of the menu.
               </cart-count>
             </div>
           </a>
+          {%endif%}
         </div>
       </div>
     </div>
