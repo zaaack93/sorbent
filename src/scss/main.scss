@@ -14,3 +14,37 @@
         margin-right: 19px;
     }
 }
+
+//style for footer
+.with_handee{
+    p:nth-child(1){
+        margin-block-end: var(--spacing-2);
+        @media screen and (min-width: 700px) {
+            margin-block-end: var(--spacing-3);
+        }
+        @media screen and (min-width: 1150px) {
+            margin-block-end: var(--spacing-5);
+        }
+    }
+    p:nth-child(2){
+        display: inline !important;
+    }
+}
+.handee-icon-container{
+    width: 56px;
+    height: 31px;
+    background: url(https://cdn.shopify.com/s/files/1/0609/6725/6116/files/Handee_Mono_Logo_Reverse_150dpi_1_1_1.png?v=1687784420);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: 6px;
+    top: 9px;
+    position: relative;
+}
+.logo_in_copyright{
+    width: 57px;
+    height: 14px;
+    position: relative;
+    top: -3px;
+    display: inline;
+}

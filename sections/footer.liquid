@@ -35,8 +35,11 @@
                     {%- endif -%}
 
                     {%- if block.settings.content != blank -%}
-                      <div class="prose text-subdued">
+                      <div class="prose text-subdued {% if block.settings.enable_handee_logo %} with_handee {%endif%}">
                         {{- block.settings.content -}}
+                        {% if block.settings.enable_handee_logo %}
+                          {% render 'handee-footer' %}
+                        {%endif%}
                       </div>
                     {%- endif -%}
 
@@ -172,7 +175,7 @@
             </div>
           {%- endif -%}
 
-          <p class="footer__copyright text-sm text-subdued">© {{ 'now' | date: '%Y' }}, {{ shop.name }}. <a target="_blank" rel="nofollow" href="http://yonder-studio.com">Site Design by Yonder Studio.</a></p>
+          <p class="footer__copyright text-sm text-subdued">© {{ 'now' | date: '%Y' }}, {{ shop.name }}. <a target="_blank" rel="nofollow" href="http://yonder-studio.com">Site Design by <img class="logo_in_copyright"" src="{{'younder-logo-footer.png' | asset_url }}" /></a></p>
         </div>
       </div>
     </div>
@@ -250,6 +253,12 @@
           "id": "content",
           "label": "Content",
           "default": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>"
+        },
+        {
+          "type": "checkbox",
+          "id": "enable_handee_logo",
+          "label": "Enable handee logo",
+          "default": false
         },
         {
           "type": "checkbox",

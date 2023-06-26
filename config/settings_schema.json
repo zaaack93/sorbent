@@ -799,6 +799,12 @@
         "label": "Free shipping minimum amount",
         "info": "Indicate the value in your store main currency.",
         "default": 50
+      },
+      {
+        "type": "checkbox",
+        "id": "enable_cart",
+        "label": "Enable cart on header",
+        "default": false
       }
     ]
   },

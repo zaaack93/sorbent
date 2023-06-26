@@ -108,6 +108,7 @@
           "settings": {
             "title": "Behind every great Australian.",
             "content": "<p>Embrace the unmatched reliability of Sorbent—the toilet paper brand Aussies have trusted for over 70 years, because life's too short for flimsy substitutes and unexpected surprises.<\/p>",
+            "enable_handee_logo": false,
             "enable_follow_on_shop": false
           }
         },
@@ -115,7 +116,8 @@
           "type": "text",
           "settings": {
             "title": "Paper Pals.",
-            "content": "<p>Need a hand cleaning up the mess outside the bathroom? <\/p><p>Check out our paper pals at Handee. <\/p>",
+            "content": "<p>Need a hand cleaning up the mess outside the bathroom? <\/p><p>Check out our paper pals at <\/p>",
+            "enable_handee_logo": true,
             "enable_follow_on_shop": false
           }
         },
