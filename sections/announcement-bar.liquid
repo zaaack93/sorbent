@@ -34,6 +34,8 @@
       {% assign background = section.settings.background_pdp %}
     {% elsif template.name == 'page' %}
       {% assign background = section.settings.background_content %}
+    {% elsif template.name == 'collection' %}
+      {% assign background = section.settings.background_collection %}
     {%endif%}
 
     <div {% render 'surface', class: 'announcement-bar', background_gradient: section.settings.background_gradient, background: background, text_color: section.settings.text_color %}>
@@ -191,6 +193,11 @@
       "type": "color",
       "id": "background_content",
       "label": "Background for content page"
+    },
+    {
+      "type": "color",
+      "id": "background_collection",
+      "label": "Background for collection page"
     },
     {
       "type": "color",

@@ -306,7 +306,7 @@
         "f324d380-0c62-402c-8d51-715998738e2e": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4.jpg",
+            "image": "shopify:\/\/shop_images\/pefc_certified.jpg",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center-start text-start",
@@ -328,7 +328,7 @@
         "876cdc3e-6772-4ea3-9093-fdbafccfc39d": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5.jpg",
+            "image": "shopify:\/\/shop_images\/Pine_1.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",

@@ -8,7 +8,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/SORB_MAY_CREATIVE_HIGHRES-24-EDIT-02-SUNNY_b37f8e7c-6a1a-4f93-a14f-990d80127eac.jpg",
             "mobile_image": "shopify:\/\/shop_images\/SORB_MAY_CREATIVE_WEB-19.jpg",
-            "content_max_width": 580,
+            "content_max_width": 620,
             "mobile_text_position": "place-self-start-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "subheading": "Sorbent is here to say we salute you, the remarkable individuals who make this country truly great. Because behind every great Australian, there's Sorbent.",
@@ -102,13 +102,13 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "toilet-tissue",
+        "collection": "all-products",
         "products": [
 
         ],
         "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
+        "stack_products": false,
+        "show_progress_bar": true,
         "products_count": 8,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
@@ -389,7 +389,7 @@
         "video_size": "auto",
         "external_video_url": "https:\/\/www.youtube.com\/watch?v=6YFn9Zj2iO0",
         "poster": "shopify:\/\/shop_images\/Screen_Shot_2023-05-18_at_2.56.07_pm.png",
-        "text_color": "#0085ca",
+        "text_color": "#a05eb4",
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
@@ -476,7 +476,7 @@
         "8e978904-04ab-454b-8f64-796821d3bc10": {
           "type": "item",
           "settings": {
-            "title": "Which is better - folding or schrunching?",
+            "title": "Which is better - folding or scrunching?",
             "content": "<p>Ah, the great debate! Whether you're a meticulous folder or an adventurous scruncher, we believe in the freedom to choose your own TP destiny. After all, it's your bathroom kingdom, and Sorbent is here to provide comfort, no matter your preferred technique.<\/p>"
           }
         },
@@ -523,7 +523,7 @@
         "content": "<p>Unraveling the Mysteries of Sorbent Toilet Paper - Your Questions, Answered!<\/p>",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "start",

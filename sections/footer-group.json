@@ -115,7 +115,7 @@
           "type": "text",
           "settings": {
             "title": "Paper Pals.",
-            "content": "<p>Need a hand cleaning up the mess outside the bathroom? Check out our paper pals at Handee. <\/p>",
+            "content": "<p>Need a hand cleaning up the mess outside the bathroom? <\/p><p>Check out our paper pals at Handee. <\/p>",
             "enable_follow_on_shop": false
           }
         },

@@ -22,8 +22,9 @@
         "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#1a3761",
-        "background_content": "#01b669",
-        "background_pdp": "#01b669",
+        "background_content": "#009961",
+        "background_collection": "#009961",
+        "background_pdp": "#009961",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
