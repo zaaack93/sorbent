@@ -1,0 +1,35 @@
+<div class="product-block product-block-link_ratialers w-full max-w-full">
+    {% if block.settings.block_heading %}
+        <h3 class="font-heading bold" style="margin-bottom:{{block.settings.block_heading_space}}px">{{block.settings.block_heading}}</h3>
+    {% endif %}
+    <icon-links-slider>
+    <div class="content_icon_container">
+        <div class="container-inner">
+        {% for i in (1..8) %}
+          {% assign link = 'image_heading_' | append: i%}
+          {% assign image = 'image_link_' | append: i%}
+          {% assign size = 'image_size_' | append: i%}
+          
+          {% if block.settings[link] != blank or block.settings[image] != blank %}
+              {% if block.settings[image] != blank %}
+              <a href="{{block.settings[link]}}" {% if block.settings.open_on_new_tab %}target="_blank"{%endif%}>
+                <span class="image_container" style="height:{{block.settings[size]}}px;aspect-ratio:{{block.settings[image].aspect_ratio}};background-image:url({{ block.settings[image] | image_url}})">
+                </span>
+              </a>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+    <button class="scroll-button left-button"><svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="12.495" cy="12.4952" r="12.4952" transform="rotate(-180 12.495 12.4952)" fill="#E8EBEF"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8616 9.65559L12.0217 12.4954L14.8616 15.3352L13.915 16.2819L10.1285 12.4954L13.915 8.70898L14.8616 9.65559Z" fill="#20375E"/>
+        </svg>        
+    </button>
+    <button class="scroll-button right-button"><svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="12.4952" cy="12.4952" r="12.4952" fill="#E8EBEF"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1287 15.3349L12.9685 12.4951L10.1287 9.65523L11.0753 8.70862L14.8617 12.4951L11.0753 16.2815L10.1287 15.3349Z" fill="#20375E"/>
+        </svg>        
+    </button>
+    </icon-links-slider>
+    </div>

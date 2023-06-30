@@ -65,8 +65,38 @@
           "settings": {
           }
         },
+        "a152ece2-9fd2-4134-8b46-9f864358a314": {
+          "type": "link_retailers",
+          "settings": {
+            "block_heading": "Click below to purchase from your favourite retailer:",
+            "block_heading_space": 10,
+            "open_on_new_tab": true,
+            "image_heading_1": "https:\/\/www.amazon.com.au\/s?k=sorbent&rh=p_89%3ASorbent&dc&ds=v1%3ABU0tZQh7HRyvKqJQNrqHG5cVOl47l6SwdVtCPHqCJbw&crid=3L7UU97BUI40V&qid=1687755857&rnid=5373057051&sprefix=sorbent%2Caps%2C343&ref=sr_nr_p_89_1",
+            "image_link_1": "shopify:\/\/shop_images\/amazone-logo.png",
+            "image_size_1": 36,
+            "image_heading_2": "https:\/\/www.chemistwarehouse.com.au\/shop-online\/3683\/sorbent",
+            "image_link_2": "shopify:\/\/shop_images\/chemist-warehouse-logo-1914FA0C63-seeklogo.com.png",
+            "image_size_2": 42,
+            "image_heading_3": "https:\/\/www.coles.com.au\/search?q=sorbent&filter_Brand=1232723623&page=1IGAhttps:\/\/www.igashop.com.au\/search\/1?q=sorbent",
+            "image_link_3": "shopify:\/\/shop_images\/Coles_logo_2_2.png",
+            "image_size_3": 30,
+            "image_heading_4": "https:\/\/www.rejectshop.com.au\/search?searchTerm=sorbent&searchType=Product&resultsPage=1&position=1.3333333730697632",
+            "image_link_4": "shopify:\/\/shop_images\/reject-shop-logo.webp",
+            "image_size_4": 46,
+            "image_heading_5": "https:\/\/www.woolworths.com.au\/shop\/search\/products?searchTerm=sorbent&sortBy=TraderRelevance&pageNumber=1&filter=Brand(Sorbent)",
+            "image_link_5": "shopify:\/\/shop_images\/woolworths-5-logo_2_2.png",
+            "image_size_5": 44,
+            "image_heading_6": "",
+            "image_size_6": 36,
+            "image_heading_7": "",
+            "image_size_7": 36,
+            "image_heading_8": "",
+            "image_size_8": 36
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
@@ -126,6 +156,7 @@
         "separator",
         "variant_picker",
         "quantity_selector",
+        "a152ece2-9fd2-4134-8b46-9f864358a314",
         "buy_buttons",
         "description",
         "c970376e-9300-48d0-8183-74ed234fde77",

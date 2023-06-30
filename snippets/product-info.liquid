@@ -34,6 +34,9 @@
           {{- 'product.general.sku' | t }} {{ product.selected_or_first_available_variant.sku -}}
         </variant-sku>
 
+      {% when 'link_retailers' %}
+        {% render 'link-retailers', block: block %}
+
       {%- when 'price' -%}
         <div class="product-info__price">
           <div class="rating-with-text">

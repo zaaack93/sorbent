@@ -1,0 +1,70 @@
+    //icon blocks with text
+    .product-block-link_ratialers{
+        .container-inner{
+            display: flex;
+            column-gap: 12px;
+            position: relative;
+            @media (max-width: 990px) {
+                column-gap: 8px;
+            }
+        }
+        .content_icon_container{
+            display: flex;
+            column-gap: 12px;
+            overflow-x: scroll;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            a{
+                background: transparent;
+                border: 2px solid #E3E3E3;
+                border-radius: 10px;
+                height: 76px;
+                display: inline-flex;
+                align-items: center;
+                padding-left: 18px;
+                padding-right: 18px;
+                min-width: 120px;
+                max-width: 200px;
+                justify-content: center;
+                width: max-content;
+                @media (max-width: 990px) {
+                    height: 65px;
+                    min-width: initial;
+                }
+                .image_container{
+                    background-size: contain;
+                    background-position: center center;
+                    background-repeat: no-repeat;
+                    height: 46px;
+                    width: 100%;
+                    // @media (max-width: 990px) {
+                    //     max-height: 28px;
+                    // }
+                }
+            }
+             &::-webkit-scrollbar {
+                display: none;
+            }
+        }
+    }
+
+    //icon list container for slide
+icon-links-slider{
+    position: relative;
+}
+.scroll-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+  }
+  
+  .left-button {
+    left: -11px;
+  }
+  
+  .right-button {
+    right: -11px;
+  }
