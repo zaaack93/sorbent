@@ -34,13 +34,14 @@
 .handee-icon-container{
     width: 56px;
     height: 31px;
-    background: url(https://cdn.shopify.com/s/files/1/0609/6725/6116/files/Handee_Mono_Logo_Reverse_150dpi_1_1_1.png?v=1687784420);
-    background-size: contain;
+    background: url(https://cdn.shopify.com/s/files/1/0609/6725/6116/files/Handee_Mono_Logo_Reverse_150dpi_1_1_1.png?v=1687784420) !important;
+    background-size: contain !important;
     background-position: center;
     background-repeat: no-repeat;
     margin-left: 6px;
     top: 9px;
     position: relative;
+    display: inline-block;
 }
 .logo_in_copyright{
     width: 57px;
