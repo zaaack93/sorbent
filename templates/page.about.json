@@ -76,13 +76,13 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Your friend on the loo, since '52.",
+            "title": "Your friend on the loo, since Fifty Two.",
             "content": "<p>Since 1952, Sorbent has always been providing Australians with wide range of tissue products. We are committed to providing quality tissue products that are gentle on your skin and kind to the environment.<\/p><p>Through cooperation and collaboration, we can deliver Australian's favourite down under dunny rolls despite the magnitude of any external challenges. As a result, Sorbent has maintained its retail market share over the past few years. This fact is greatly helped by the number of retailers we serve who are long-standing clients of Sorbent, meaning most of our customer relationships are built on a solid foundation of trust.<\/p>",
             "link_text": "",
             "link_url": "",
             "background": "rgba(0,0,0,0)",
             "background_gradient": "",
-            "text_color": "#272727",
+            "text_color": "#1a3761",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -133,7 +133,7 @@
         "template--15629100613684__28da7936-824c-4907-8353-68f8a3637956-16840653727947f6a4-0": {
           "type": "item",
           "settings": {
-            "title": "50 Million*",
+            "title": "60 Million*",
             "subheading": "Aussies bums wiped (*and counting)",
             "content": "",
             "button_text": "",

@@ -71,21 +71,21 @@
             "block_heading": "Click below to purchase from your favourite retailer:",
             "block_heading_space": 10,
             "open_on_new_tab": true,
-            "image_heading_1": "https:\/\/www.amazon.com.au\/s?k=sorbent&rh=p_89%3ASorbent&dc&ds=v1%3ABU0tZQh7HRyvKqJQNrqHG5cVOl47l6SwdVtCPHqCJbw&crid=3L7UU97BUI40V&qid=1687755857&rnid=5373057051&sprefix=sorbent%2Caps%2C343&ref=sr_nr_p_89_1",
-            "image_link_1": "shopify:\/\/shop_images\/amazone-logo.png",
-            "image_size_1": 36,
+            "image_heading_1": "https:\/\/www.coles.com.au\/search?q=sorbent&filter_Brand=1232723623&page=1IGAhttps:\/\/www.igashop.com.au\/search\/1?q=sorbent",
+            "image_link_1": "shopify:\/\/shop_images\/Coles_logo_2_2.png",
+            "image_size_1": 28,
             "image_heading_2": "https:\/\/www.chemistwarehouse.com.au\/shop-online\/3683\/sorbent",
-            "image_link_2": "shopify:\/\/shop_images\/chemist-warehouse-logo-1914FA0C63-seeklogo.com.png",
-            "image_size_2": 42,
-            "image_heading_3": "https:\/\/www.coles.com.au\/search?q=sorbent&filter_Brand=1232723623&page=1IGAhttps:\/\/www.igashop.com.au\/search\/1?q=sorbent",
-            "image_link_3": "shopify:\/\/shop_images\/Coles_logo_2_2.png",
-            "image_size_3": 30,
+            "image_link_2": "shopify:\/\/shop_images\/woolworths-5-logo_2_2.png",
+            "image_size_2": 46,
+            "image_heading_3": "https:\/\/www.igashop.com.au\/search\/1?q=sorbent",
+            "image_link_3": "shopify:\/\/shop_images\/IGA_logo_2_1.png",
+            "image_size_3": 37,
             "image_heading_4": "https:\/\/www.rejectshop.com.au\/search?searchTerm=sorbent&searchType=Product&resultsPage=1&position=1.3333333730697632",
             "image_link_4": "shopify:\/\/shop_images\/reject-shop-logo.webp",
             "image_size_4": 46,
-            "image_heading_5": "https:\/\/www.woolworths.com.au\/shop\/search\/products?searchTerm=sorbent&sortBy=TraderRelevance&pageNumber=1&filter=Brand(Sorbent)",
-            "image_link_5": "shopify:\/\/shop_images\/woolworths-5-logo_2_2.png",
-            "image_size_5": 44,
+            "image_heading_5": "https:\/\/www.amazon.com.au\/s?k=sorbent&rh=p_89%3ASorbent&dc&ds=v1%3ABU0tZQh7HRyvKqJQNrqHG5cVOl47l6SwdVtCPHqCJbw&crid=3L7UU97BUI40V&qid=1687755857&rnid=5373057051&sprefix=sorbent%2Caps%2C343&ref=sr_nr_p_89_1",
+            "image_link_5": "shopify:\/\/shop_images\/amazone-logo.png",
+            "image_size_5": 28,
             "image_heading_6": "",
             "image_size_6": 36,
             "image_heading_7": "",
@@ -205,39 +205,66 @@
         "product_card_text_color": ""
       }
     },
-    "ea6fe91b-13bd-4afc-ad9a-e278487579f2": {
-      "type": "media-with-text",
-      "disabled": true,
+    "97f76eb0-0800-4b6b-b9e2-80600c5246cc": {
+      "type": "text-with-icons",
       "blocks": {
-        "template--15641657245748__ea6fe91b-13bd-4afc-ad9a-e278487579f2-168680826824d33787-0": {
-          "type": "image",
+        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-0": {
+          "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SORB_MAY_CREATIVE_WEB-10-1x1.jpg",
-            "media_width": 45,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Accordion Here",
-            "content": "<p>1. How is it so soft?<\/p><p>2. Where is it made?<\/p><p>3. Where do we source our paper?<\/p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#f2f2f2",
-            "background_gradient": "",
-            "text_color": "#1a3761",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/Disperses_Quickly.png",
+            "mobile_icon_width": 100,
+            "icon_width": 120,
+            "icon_background_type": "circle",
+            "icon_background": "#ffffff",
+            "icon_color": "",
+            "title": "Biodegradable Paper",
+            "content": "<p>Suitable for all systems<\/p>"
+          }
+        },
+        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/extra_thick.png",
+            "mobile_icon_width": 100,
+            "icon_width": 120,
+            "icon_background_type": "circle",
+            "icon_background": "#ffffff",
+            "icon_color": "",
+            "title": "Extra Soft and Thick",
+            "content": "<p>Made for the whole family in mind<\/p>"
+          }
+        },
+        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/Recylable.png",
+            "mobile_icon_width": 100,
+            "icon_width": 120,
+            "icon_background_type": "circle",
+            "icon_background": "#ffffff",
+            "icon_color": "",
+            "title": "Recyclable packaging",
+            "content": "<p>Return your plastic packaging to your local <a href=\"http:\/\/www.redcycle.net.au\/where-to-redcycle\/\" target=\"_blank\">Redcycle <\/a><\/p>"
           }
         }
       },
       "block_order": [
-        "template--15641657245748__ea6fe91b-13bd-4afc-ad9a-e278487579f2-168680826824d33787-0"
+        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-0",
+        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-1",
+        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-2"
       ],
       "settings": {
         "full_width": false,
-        "spacing": "small"
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "5c04c824-3cdc-4692-8e37-ed995600f2d0": {
@@ -311,66 +338,39 @@
         "testimonial_card_text_color": ""
       }
     },
-    "97f76eb0-0800-4b6b-b9e2-80600c5246cc": {
-      "type": "text-with-icons",
+    "ea6fe91b-13bd-4afc-ad9a-e278487579f2": {
+      "type": "media-with-text",
+      "disabled": true,
       "blocks": {
-        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-0": {
-          "type": "item",
+        "template--15641657245748__ea6fe91b-13bd-4afc-ad9a-e278487579f2-168680826824d33787-0": {
+          "type": "image",
           "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify:\/\/shop_images\/Disperses_Quickly.png",
-            "mobile_icon_width": 100,
-            "icon_width": 120,
-            "icon_background_type": "circle",
-            "icon_background": "#ffffff",
-            "icon_color": "",
-            "title": "Biodegradable Paper",
-            "content": "<p>Suitable for all systems<\/p>"
-          }
-        },
-        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-1": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify:\/\/shop_images\/extra_thick.png",
-            "mobile_icon_width": 100,
-            "icon_width": 120,
-            "icon_background_type": "circle",
-            "icon_background": "#ffffff",
-            "icon_color": "",
-            "title": "Extra Soft and Thick",
-            "content": "<p>Made for the whole family in mind<\/p>"
-          }
-        },
-        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-2": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify:\/\/shop_images\/Recylable.png",
-            "mobile_icon_width": 100,
-            "icon_width": 120,
-            "icon_background_type": "circle",
-            "icon_background": "#ffffff",
-            "icon_color": "",
-            "title": "Recyclable packaging",
-            "content": "<p>Return your plastic packaging to your local <a href=\"http:\/\/www.redcycle.net.au\/where-to-redcycle\/\" target=\"_blank\">Redcycle <\/a><\/p>"
+            "image": "shopify:\/\/shop_images\/SORB_MAY_CREATIVE_WEB-10-1x1.jpg",
+            "media_width": 45,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Accordion Here",
+            "content": "<p>1. How is it so soft?<\/p><p>2. Where is it made?<\/p><p>3. Where do we source our paper?<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#f2f2f2",
+            "background_gradient": "",
+            "text_color": "#1a3761",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-0",
-        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-1",
-        "template--15629100744756__97f76eb0-0800-4b6b-b9e2-80600c5246cc-1684387605c2e721f3-2"
+        "template--15641657245748__ea6fe91b-13bd-4afc-ad9a-e278487579f2-168680826824d33787-0"
       ],
       "settings": {
         "full_width": false,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": ""
+        "spacing": "small"
       }
     },
     "df9d9e01-8624-4414-a20f-84d600c8debc": {
@@ -538,9 +538,9 @@
   "order": [
     "main",
     "related-products",
-    "ea6fe91b-13bd-4afc-ad9a-e278487579f2",
-    "5c04c824-3cdc-4692-8e37-ed995600f2d0",
     "97f76eb0-0800-4b6b-b9e2-80600c5246cc",
+    "5c04c824-3cdc-4692-8e37-ed995600f2d0",
+    "ea6fe91b-13bd-4afc-ad9a-e278487579f2",
     "df9d9e01-8624-4414-a20f-84d600c8debc",
     "ca1de572-80e4-4648-9fcf-38518203dbfc",
     "17563630-d2bc-4b75-8e5a-2c95be30673b",
